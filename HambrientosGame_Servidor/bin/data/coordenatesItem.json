@@ -1,0 +1,59 @@
+{
+	"coordenates": [
+		{
+			"id": 1,
+			"positionX": 1200,
+			"positionY": 420
+		},
+		{
+			"id": 2,
+			"positionX": 500,
+			"positionY": 700
+		},
+		{
+			"id": 3,
+			"positionX": 300,
+			"positionY": 300
+		},
+		{
+			"id": 4,
+			"positionX": 500,
+			"positionY": 500
+		},
+		{
+			"id": 5,
+			"positionX": 1200,
+			"positionY": 800
+		},
+		{
+			"id": 6,
+			"positionX": 600,
+			"positionY": 400
+		},
+		{
+			"id": 7,
+			"positionX": 1000,
+			"positionY": 700
+		},
+		{
+			"id": 8,
+			"positionX": 300,
+			"positionY": 390
+		},
+		{
+			"id": 9,
+			"positionX": 1030,
+			"positionY": 750
+		},
+		{
+			"id": 10,
+			"positionX": 1200,
+			"positionY": 400
+		},
+		{
+			"id": 11,
+			"positionX": 500,
+			"positionY": 700
+		}
+	]
+}

@@ -1,0 +1,5 @@
+package presenter;
+
+public enum Actions {
+	CREATE_PLAYER, SHOW_DIALOG_AVATARS, PATACON, CHICHICO, PEPE, RAMON,ANASTASIO, EXIT
+}
